@@ -1,0 +1,141 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav img{
+    margin-left: 4rem;
+    height: 5rem;
+    width: 5rem;
+    border-radius: 0.8rem;
+}
+
+.bell{
+    font-size: 1rem;
+    border: 1px solid  #0d6efd;
+    border-radius: 5%;
+}
+
+#hero{
+    background-color: #f7f6fe;
+}
+
+#hero i {
+    font-weight: bold;
+    color: #0d6efd;
+}
+
+#hero img{
+    width: 70%;
+    border-radius: 0.8rem;
+}
+.icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 9rem;
+  height: 5rem;
+  border-radius: 50%;
+  margin-right: 2rem;
+  border: 1px solid #0d6efd;
+}
+
+.icon i{
+    font-size: 2rem;
+}
+
+#info{
+    width: 30rem;
+    height: 10rem;
+    margin-left: 1rem;
+    border-radius: 1rem;
+}
+
+#about2 {
+    background: url('./assects/about.jpg');
+    background-size: cover;
+    background-position: center;
+    border-radius: 0.8rem;
+}
+
+#about-2{
+    background-color: #f7f6fe;
+}
+
+#work{
+    width: 70rem;
+    height: 8rem;
+    border: 1px solid  #c2c9d4;
+    border-radius: 0.8rem;
+    background-color: #fff;
+}
+
+.about-icon{
+    font-size: 2rem;
+    width: 3rem;
+    height: 3rem;
+    background-color: #0d6efd;
+    border-radius: 0.8rem;
+}
+
+.about-icon{
+    color: white;
+}
+
+.services-icon{
+    width: 5rem;
+    height: 5rem;
+    background-color: white;
+    color: #0d6efd;
+}
+
+.services-icon i {
+    font-size: 3rem;
+}
+
+#service-card{
+    display: flex;
+    justify-content: center;
+    width: 40rem;
+    height: 13rem;
+    border-radius: 0.8rem;
+}
+
+#portfolio{
+    background-color: #f7f6fe;
+}
+
+#portfoliocard{
+    width: 25rem;
+    height: 25rem;
+
+}
+
+#portfoliocard img{
+    width: 25rem;
+    height: 20rem;
+}
+
+#contact-icon-div{
+    border: 1px solid #c2c9d4;
+    border-radius: 50%;
+    padding: 1rem;
+    background: #c2c9d4;
+}
+
+#contact i{
+    color: #0d6efd;
+}
+
+#contact{
+    border-radius: 1rem;
+}
+
+.footer{
+    position: relative;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #f7f6fe;
+}
+
